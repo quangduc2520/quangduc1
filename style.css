@@ -1,0 +1,38 @@
+.margin{
+    display: block;
+    background-color: red;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-left: auto;
+    width: 200px;
+    margin: 0 auto; /* de can giua */
+
+
+}
+.margin-2{
+    background-color: aqua;
+    margin-top: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.color{
+    color: blueviolet;
+}
+.text{
+    display: inline block;
+    background-color: cornsilk;
+    width: 200px;
+    margin: 0 auto;
+    color: cyan;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    white-space: nowrap;  
+    /* de tat ca doan text tren 1 dong */
+    overflow: hidden;
+    /* de neu text dai qua trang se bien mat */
+    text-overflow: ellipsis;
+}
+
+
